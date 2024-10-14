@@ -16,6 +16,9 @@ am committed to continuous learning and innovation.
 <h3 align="left">Currently learning</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![My Skills](https://skillicons.dev/icons?i=next)](https://nextjs.org/)
+[![My Skills](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 
 <h3>Front-end technologies</h3>
 
