@@ -6,18 +6,21 @@
 <h3>I'm Giuseppe Rinaldi !</h3>
 
 <p>
-🚀 CEO & Co-Founder of <strong>RipeTech</strong>.
+🚀 CEO & Co-Founder of <strong>RipeTech S.r.l.</strong>.
 </p>
 
 <p>
-I design and build scalable SaaS platforms using Laravel and Vue.js,
-with a strong focus on clean architecture, multi-tenant systems, 
-role-based access control, and business-driven development.
+💻 I lead the technical development of our SaaS platforms — from system architecture and backend logic 
+to frontend implementation and deployment.
 </p>
 
 <p>
-From product strategy to backend logic and frontend implementation,
-I transform complex operational workflows into efficient digital systems.
+🧠 As a Founder & Tech Lead, I write production code daily, design scalable multi-tenant systems, 
+coordinate developers, and translate business workflows into reliable software solutions.
+</p>
+
+<p>
+⚙️ Main stack: Laravel, Vue.js, MySQL, REST APIs.
 </p>
 
 <h1 align="center">Technical skills</h1>
