@@ -6,7 +6,7 @@
 <h3>I'm Giuseppe Rinaldi !</h3>
 
 <p>
-🚀 CEO & Co-Founder of <strong>RipeTech S.r.l.</strong>.
+🚀 CEO & Co-Founder of <strong>RipeTech S.r.l.</strong>
 </p>
 
 <p>
