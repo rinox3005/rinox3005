@@ -5,12 +5,20 @@
 
 <h3>I'm Giuseppe Rinaldi !</h3>
 
-<p>:technologist: I am a dedicated Full-Stack Web Developer with a keen eye for detail and a problem-solving
-mindset. I aim to deliver high-quality, scalable solutions that enhance user experiences. I thrive in collaborative environments and
-am committed to continuous learning and innovation.
+<p>
+🚀 CEO & Co-Founder of <strong>RipeTech</strong>.
 </p>
 
-<p>:heart: I am what you call a Vue.js and Laravel enthusiast.</p>
+<p>
+I design and build scalable SaaS platforms using Laravel and Vue.js,
+with a strong focus on clean architecture, multi-tenant systems, 
+role-based access control, and business-driven development.
+</p>
+
+<p>
+From product strategy to backend logic and frontend implementation,
+I transform complex operational workflows into efficient digital systems.
+</p>
 
 <h1 align="center">Technical skills</h1>
 <h3 align="left">Currently learning</h3>
